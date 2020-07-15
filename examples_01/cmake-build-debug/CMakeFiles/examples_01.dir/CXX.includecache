@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yongbin/CLionProjects/examples_01/CPlusLearning/com.FirstCapt/ListLearning.cpp
+ListLearning.h
+/Users/yongbin/CLionProjects/examples_01/CPlusLearning/com.FirstCapt/ListLearning.h
+iostream
+-
+math.h
+-
+
+/Users/yongbin/CLionProjects/examples_01/CPlusLearning/com.FirstCapt/ListLearning.h
+
