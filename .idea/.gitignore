@@ -6,3 +6,12 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+.DS_Store
+.settings
+.idea
+*.iml
+.project
+.classpath
+logs
+target
+node_modules
